@@ -3,7 +3,7 @@
 
 Desenvolvi e criei uma API para um Banco Digital. Esse é um projeto **piloto**, ou seja, no futuro outras funcionalidades serão implementadas.
 
-Construi uma API REST full que permite:
+Construi uma RESTful API que permite:
 
 -   Criar conta bancária
 -   Listar contas bancárias
